@@ -4,7 +4,7 @@ body {
 }
 
 a {
-	color:gray;
+	color:black;
     /*text-decoration:none;*/
 }
 
@@ -29,12 +29,12 @@ b {
 }
 
 #name .title {
-	font-size: 35px;
+	font-size: 40px;
 }
 
 .title {
-	margin-top: 15px;
-	font-size: 24px;
+	margin-top: 18px;
+	font-size: 30px;
 	font-weight: 300;
 	/*background-color: blue;*/
 }
@@ -53,7 +53,7 @@ b {
 
 .item {
 	/*margin-top: 5px;*/
-	font-size: 16px;
+	font-size: 17px;
 	padding-top: 8px;
 	padding-left: 10px;
 	font-weight: 400;
@@ -75,7 +75,7 @@ div .item:nth-child(1) {
 }
 
 .detail {
-	font-size: 13px;
+	font-size: 15px;
 	padding-left: 10px;
 	font-weight: 200;
 }
