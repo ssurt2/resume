@@ -95,7 +95,7 @@ div .item:nth-child(1) {
 }
 
 .secondary {
-	font-size: 13px;
+	font-size: 12px;
 	font-weight: 200;
 }
 
@@ -105,7 +105,7 @@ div .item:nth-child(1) {
 	display: inline;
 	float: right;
 	margin-top: 3px;
-	font-weight: 200;
+	font-weight: 250;
 }
 
 #experience .date {
@@ -168,11 +168,6 @@ i {
 
 .research {
     /* color: #f23350; */
-    font-style: normal;
-}
-
-.microsoft {
-    /* color: #70b000; */
     font-style: normal;
 }
 
