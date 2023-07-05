@@ -29,13 +29,13 @@ b {
 }
 
 #name .title {
-	font-size: 40px;
+	font-size: 45px;
 }
 
 .title {
 	margin-top: 15px;
-	font-size: 30px;
-	font-weight: 300;
+	font-size: 32px;
+	font-weight: 302;
 	/*background-color: blue;*/
 }
 
@@ -53,12 +53,20 @@ b {
 
 .item {
 	/*margin-top: 5px;*/
-	font-size: 17px;
+	font-size: 18px;
 	padding-top: 8px;
 	padding-left: 10px;
 	font-weight: 400;
 	/*background-color: blue;*/
 }
+
+.position{
+	/*margin-top: 5px;*/
+	font-size: 15px;
+	font-weight: 350;
+	/*background-color: blue;*/
+}
+
 
 .secondary-item {
 	font-size: 16px;
@@ -87,6 +95,8 @@ div .item:nth-child(1) {
 #proficiency {
 	margin-left: 17.5px;
 }
+
+
 
 .location {
 	font-size: 12px;
