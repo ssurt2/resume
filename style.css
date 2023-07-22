@@ -5,6 +5,7 @@ body {
 
 a {
 	color:black;
+	margin-top: 4px;
     /*text-decoration:none;*/
 }
 
@@ -155,7 +156,7 @@ li {
 i {
 	color: gray;
 	width: 18px;
-    margin-top: 7px;
+    margin-top: 4px;
 }
 
 .fa-python  {
