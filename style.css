@@ -35,7 +35,7 @@ b {
 .title {
 	margin-top: 15px;
 	font-size: 32px;
-	font-weight: 302;
+	font-weight: 340;
 	/*background-color: blue;*/
 }
 
@@ -128,13 +128,22 @@ div .item:nth-child(1) {
 
 ul {
 	margin: 2px auto;
-	padding-left: 0px;
-	list-style: none;
+	padding-left: 10px;
+	list-style-type: none;
+
 }
 
 li .date {
 	margin-top: 2px;
 }
+ul li::before{
+	
+	margin-left: -17.5px;
+	position: absolute;
+	content: '-'
+	 
+}
+
 li {
 	padding-top: 4px;
 }
