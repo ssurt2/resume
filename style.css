@@ -154,9 +154,9 @@ li {
 }
 
 i {
+	margin-top: 4px;
 	color: gray;
 	width: 18px;
-    margin-top: 4px;
 }
 
 .fa-python  {
