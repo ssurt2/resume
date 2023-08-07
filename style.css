@@ -5,7 +5,6 @@ body {
 
 a {
 	color:black;
-	margin-top: 4px;
     /*text-decoration:none;*/
 }
 
@@ -146,7 +145,7 @@ ul li::before{
 }
 
 li {
-	padding-top: 4px;
+	padding-top: 1px;
 }
 
 .item ul li:first-child {
@@ -154,9 +153,9 @@ li {
 }
 
 i {
-	margin-top: 4px;
 	color: gray;
 	width: 18px;
+    margin-top: 4px;
 }
 
 .fa-python  {
